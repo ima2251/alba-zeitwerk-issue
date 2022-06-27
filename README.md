@@ -6,14 +6,30 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+- 3.1.2
 
 * System dependencies
+- SQLite
 
 * Configuration
 
 * Database creation
 
 * Database initialization
+
+```
+rails db:seed
+```
+
+* How to run
+
+```
+rails server
+```
+
+```
+http://localhost:3000/
+```
 
 * How to run the test suite
 
