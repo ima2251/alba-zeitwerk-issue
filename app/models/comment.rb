@@ -1,3 +1,3 @@
 class Comment < ApplicationRecord
-  belongs_to :parent, class_name: "ChapterComment", optional: true
+  belongs_to :parent, class_name: "Comment", optional: true
 end
