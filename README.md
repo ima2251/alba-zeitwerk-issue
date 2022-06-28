@@ -15,6 +15,10 @@ This is the reproduced code that causes an error in zeitwerk with using alba.
 ## Database initialization
 
 ```
+rails db:migrate
+```
+
+```
 rails db:seed
 ```
 
