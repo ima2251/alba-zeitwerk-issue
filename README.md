@@ -1,27 +1,24 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the reproduced code that causes an error in zeitwerk with using alba. 
 
-Things you may want to cover:
+## Ruby version
 
-* Ruby version
-- 3.1.2
+``` 3.1.2 ```
 
-* System dependencies
-- SQLite
+## System dependencies
 
-* Configuration
 
-* Database creation
+ ``` SQLite ```
 
-* Database initialization
+
+## Database initialization
 
 ```
 rails db:seed
 ```
 
-* How to run
+## How to run
 
 ```
 rails server
@@ -30,11 +27,3 @@ rails server
 ```
 http://localhost:3000/
 ```
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
